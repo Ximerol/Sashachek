@@ -1,1 +1,13 @@
-Сделал Саша Чекменёв.....
+Rolax@DESKTOP-MJQTTBB MINGW64 /D/ChekSasha/Sasha (main)
+$ git log
+commit 671ab622cdd39e801b51d44c124fb1a0b9e964bf (HEAD -> main)
+Author: Александр Чекменёв <Chek_sasha@bk.ru>
+Date:   Tue Mar 18 21:37:01 2025 +0500
+
+    Связал репозитории
+
+commit 225c449df0dc7a40795b26ccbbea450cf05303b5 (origin/main, origin/HEAD)
+Author: Ximerol <chek_sasha@bk.ru>
+Date:   Tue Mar 18 21:28:28 2025 +0500
+
+    Initial commit
